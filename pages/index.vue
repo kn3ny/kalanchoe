@@ -32,7 +32,7 @@ import Logo from "@/components/Logo.vue";
 export default Vue.extend({
   components: {
     Logo,
-  }
+  },
 });
 </script>
 
